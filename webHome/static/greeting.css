@@ -1,0 +1,72 @@
+ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  background-color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #ccc;
+}
+
+span {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.files,
+.dirs,
+.space,
+.home_dir {
+  display: inline-block;
+  font-weight: 800;
+  font-size: 1.4rem;
+  margin-right: 1.5rem;
+  color: red;
+}
+
+.greeting {
+  display: block;
+  font-weight: 800;
+  font-size: 1.4rem;
+  margin-right: 2.5rem;
+  color: green;
+  text-align: center;
+}
+
+.button,
+.logout {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 1rem;
+}
+
+.button:hover {
+  background-color: #3e8e41;
+}
+
+.header {
+  display: flex;
+}
