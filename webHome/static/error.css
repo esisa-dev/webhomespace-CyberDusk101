@@ -1,0 +1,22 @@
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 1rem;
+}
+
+.button:hover {
+  background-color: #3e8e41;
+}
+
+.error_style {
+  text-align: center;
+}

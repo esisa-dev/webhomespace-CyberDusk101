@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin</title>
+    <link rel="stylesheet" href="../static/greeting.css" />
+  </head>
+
+  <body>
+    <h1 class="greeting">Welcome back {{ username }}</h1>
+
+    <section class="header">
+      <div class="left">
+        <p class="home_dir">working on ${{ homeDirectory }}</p>
+        <span class="files">Files : {{ files|length }} files</span>
+        <span class="dirs">Dirs : {{ dirs|length }} directories</span>
+        <span class="space">space: {{ space }} MB</span>
+      </div>
+
+      <div class="right">
+        <a href="{{ url_for('download') }}" class="button">download as zip</a>
+        <a href="{{ url_for('logout') }}" class="logout">logout</a>
+      </div>
+    </section>
+
+    <ul>
+      {% for item in files|sort %} {% if item[-3:] == 'txt' %}
+      <li>
+        <a>{{ item }}</a>
+        <span>File</span>
+        <span>{{ sizesOfFiles[item] }} Kb</span>
+        <span>{{ timeOfFiles[item] }}</span>
+      </li>
+      {% endif %} {% endfor %}
+    </ul>
+
+    <ul>
+      {% for item in files|sort %} {% if item[-3:] != 'txt' %}
+      <li>
+        {{ item }}
+        <span>File</span>
+        <span>{{ sizesOfFiles[item] }} Kb</span>
+        <span>{{ timeOfFiles[item] }}</span>
+      </li>
+      {% endif %} {% endfor %} {% for item in dirs|sort %}
+      <li>
+        <a>{{ item }}</a>
+        <span>Directory</span>
+        <span></span>
+        <span>{{ timeOfDirs[item] }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

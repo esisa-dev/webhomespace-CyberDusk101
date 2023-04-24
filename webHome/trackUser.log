@@ -1,0 +1,193 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:56:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:56:56] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:56:56] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Connected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:57:26] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:57:26] "GET /static/greeting.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:57:26] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:58:43] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:58:43] "GET /static/error.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:58:43] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:59:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:59:12] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:59:12] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Connected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:59:26] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:59:27] "GET /static/greeting.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 11:59:27] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+DEBUG:root:A user just Connected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:27] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:27] "GET /static/error.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:27] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:28] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:28] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:32] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:32] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:33] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:33] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:35] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:36] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:36] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:38] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:38] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Connected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:51] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:51] "GET /static/greeting.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:04:51] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:45] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:46] "GET /static/error.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:46] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:47] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:47] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:49] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:06:49] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Connected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:02] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:02] "GET /static/greeting.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:02] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:04] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:04] "GET /static/error.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:04] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:17] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:17] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Connected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:31] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:31] "GET /static/greeting.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:31] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:34] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:35] "GET /static/error.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:07:35] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:18] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:18] "GET /static/error.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:18] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:18] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:18] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Connected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:34] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:34] "GET /static/greeting.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:12:34] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Disconnected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:18:35] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:18:35] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:18:35] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 12:29:19] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+INFO:werkzeug: * Detected change in '/mnt/c/Users/moham/Desktop/webHome/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 768-871-103
+DEBUG:root:A user just visited the home page
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:11] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:11] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Connected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:29] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:29] "GET /static/greeting.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:29] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG:root:A user just Disconnected { cyberdusk101 }
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:36] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:36] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Apr/2023 13:16:36] "GET /favicon.ico HTTP/1.1" 200 -
